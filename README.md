@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spencerrivera" alt="spencerrivera" /></a> </p>
 
-- 🔭 I’m currently working on **my first year at Georgia Tech**
+- 🔭 I’m currently focused on completing my first year at Georgia Tech's Masters in Analytics
 
-- 👯 I’m looking to collaborate on **beginner to immediate ML/AI projects**
+- 👯 I’m looking to collaborate on beginner to immediate ML/AI projects
 
-- 💬 Ask me about **transit, optimization, and prioritization models**
+- 💬 Ask me about transit, optimization, and prioritization models
 
-- 📫 How to reach me **spencercrivera@gmail.com**
+- 📫 How to reach me spencercrivera@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
