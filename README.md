@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spencerrivera" alt="spencerrivera" /></a> </p>
 
-- 🔭 I’m currently focused on completing my first year at Georgia Tech's Masters in Analytics
+- 🔭 I’m currently focused on completing my first year of Georgia Tech's Masters in Analytics
 
-- 👯 I’m looking to collaborate on beginner to immediate ML/AI projects
+- 👯 I’m looking to collaborate on immediate ML/AI projects
 
 - 💬 Ask me about transit, optimization, and prioritization models
 
